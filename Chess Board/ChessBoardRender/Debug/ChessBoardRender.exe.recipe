@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\Debug\ChessBoardRender.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\Debug\LitColourPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\Debug\LitColourVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\Debug\SkyBoxPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\Debug\SkyBoxVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

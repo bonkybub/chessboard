@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <FxCompile Include="LitColourVS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="LitColourPS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="SkyBoxVS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="SkyBoxPS.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DirectX.cpp" />
+    <ClCompile Include="Font.cpp" />
+    <ClCompile Include="IndexedPrimitive.cpp" />
+    <ClCompile Include="Models.cpp" />
+    <ClCompile Include="myProject.cpp" />
+    <ClCompile Include="Sprite.cpp" />
+    <ClCompile Include="TextureType.cpp" />
+    <ClCompile Include="Timer.cpp" />
+    <ClCompile Include="LitColourShader.cpp" />
+    <ClCompile Include="SkyBox.cpp" />
+    <ClCompile Include="Pawn.cpp">
+      <Filter>Chess Parts</Filter>
+    </ClCompile>
+    <ClCompile Include="ChessBoard.cpp">
+      <Filter>Chess Parts</Filter>
+    </ClCompile>
+    <ClCompile Include="Queen.cpp">
+      <Filter>Chess Parts</Filter>
+    </ClCompile>
+    <ClCompile Include="King.cpp">
+      <Filter>Chess Parts</Filter>
+    </ClCompile>
+    <ClCompile Include="Bishop.cpp">
+      <Filter>Chess Parts</Filter>
+    </ClCompile>
+    <ClCompile Include="Knight.cpp">
+      <Filter>Chess Parts</Filter>
+    </ClCompile>
+    <ClCompile Include="Rook.cpp">
+      <Filter>Chess Parts</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DirectX.h" />
+    <ClInclude Include="Font.h" />
+    <ClInclude Include="IndexedPrimitive.h" />
+    <ClInclude Include="Models.h" />
+    <ClInclude Include="MyProject.h" />
+    <ClInclude Include="Sprite.h" />
+    <ClInclude Include="TextureType.h" />
+    <ClInclude Include="Timer.h" />
+    <ClInclude Include="LitColourShader.h" />
+    <ClInclude Include="SkyBox.h" />
+    <ClInclude Include="Pawn.h">
+      <Filter>Chess Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="ChessBoard.h">
+      <Filter>Chess Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="Queen.h">
+      <Filter>Chess Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="King.h">
+      <Filter>Chess Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="Bishop.h">
+      <Filter>Chess Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="Knight.h">
+      <Filter>Chess Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="Rook.h">
+      <Filter>Chess Parts</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{ffb2a3bf-7184-4176-841f-ae9fd202509a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chess Parts">
+      <UniqueIdentifier>{18e84db6-eae5-4c0e-8fbe-7bbd6231c201}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="VertexPositionNormalTexture.hlsli">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="SkyBox.hlsli">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

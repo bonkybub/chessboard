@@ -1,0 +1,203 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TermAssignment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  compilation object save succeeded; see C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\Debug\LitColourPS.cso
+  compilation object save succeeded; see C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\Debug\LitColourVS.cso
+  compilation object save succeeded; see C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\Debug\SkyBoxPS.cso
+  compilation object save succeeded; see C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\Debug\SkyBoxVS.cso
+  Bishop.cpp
+  ChessBoard.cpp
+  DirectX.cpp
+  Font.cpp
+  IndexedPrimitive.cpp
+  King.cpp
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\King.cpp(88,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\King.cpp(91,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\King.cpp(108,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  Knight.cpp
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Knight.cpp(70,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Knight.cpp(87,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  Models.cpp
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(53,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(54,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(55,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(57,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(58,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(59,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(120,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(121,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(122,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(124,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(125,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(126,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(170,22): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(171,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(172,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(226,24): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(227,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(228,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(230,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(231,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(232,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(276,24): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(277,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(278,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(333,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(334,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(335,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(337,34): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(338,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Models.cpp(339,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uint16_t
+          ]
+  myProject.cpp
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\myProject.cpp(235,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\myProject.cpp(235,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\myProject.cpp(236,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\myProject.cpp(236,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\myProject.cpp(318,120): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\myProject.cpp(318,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\myProject.cpp(319,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\myProject.cpp(319,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\myProject.cpp(322,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\myProject.cpp(322,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\myProject.cpp(323,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\myProject.cpp(323,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Pawn.cpp
+  Queen.cpp
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Queen.cpp(112,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Queen.cpp(115,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\ChessBoardRender\Queen.cpp(132,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  Rook.cpp
+  SkyBox.cpp
+  Sprite.cpp
+  TextureType.cpp
+  Timer.cpp
+  LitColourShader.cpp
+  Generating Code...
+directxtk.lib(CommonStates.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(CommonStates.obj)' or at ''; linking object as if no debug info
+directxtk.lib(DDSTextureLoader.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(DDSTextureLoader.obj)' or at ''; linking object as if no debug info
+directxtk.lib(BinaryReader.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(BinaryReader.obj)' or at ''; linking object as if no debug info
+directxtk.lib(pch.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(pch.obj)' or at ''; linking object as if no debug info
+directxtk.lib(SimpleMath.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(SimpleMath.obj)' or at ''; linking object as if no debug info
+directxtk.lib(SpriteBatch.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(SpriteBatch.obj)' or at ''; linking object as if no debug info
+directxtk.lib(SpriteFont.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(SpriteFont.obj)' or at ''; linking object as if no debug info
+directxtk.lib(VertexTypes.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(VertexTypes.obj)' or at ''; linking object as if no debug info
+directxtk.lib(WICTextureLoader.obj) : warning LNK4099: PDB '' was not found with 'directxtk.lib(WICTextureLoader.obj)' or at ''; linking object as if no debug info
+  ChessBoardRender.vcxproj -> C:\Users\Matthew\OneDrive\Documents\GitHub\chessboard\Chess Board\Debug\ChessBoardRender.exe
